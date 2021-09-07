@@ -1,6 +1,1 @@
-a = 'Ruby'
-a.prepend(<<TEXT)
-Java
-PHP
-TEXT
-puts a
+sprintf('%0.3f', 1.2)
