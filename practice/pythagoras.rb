@@ -31,10 +31,10 @@
 
 # puts findthird
 
-result = (2..15).flat_map { |num|
-  ary = [30, 40, 10].repeated_combination(num)
-    .select { |coin_set|
-    }
-}
+# result = (2..15).flat_map { |num|
+#   ary = [30, 40, 10].repeated_combination(num)
+#     .select { |coin_set|
+#     }
+# }
 
-p result.count
+# p result.count
